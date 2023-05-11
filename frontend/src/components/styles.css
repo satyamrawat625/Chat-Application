@@ -1,0 +1,22 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+#head-bar{
+  background-color:whitesmoke;
+}
+
+#chat-back{
+  background-image: url(./../background1.jpg);
+}
+
+.chat-overview{
+  height: 50px;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  
+}
